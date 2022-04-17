@@ -24,7 +24,7 @@
 семантический поиски для предметной области таксопарка.
 
 <p align="center">
-    <img src="doc/Filled%20frame%20model.png" style="margin-top: 150px;"/>
+    <img src="doc/Filled%20frame%20model.png"/>
 </p>
 
 <p align="center">   
